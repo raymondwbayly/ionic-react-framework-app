@@ -1,2 +1,2 @@
-# ionic-react-framework-app
-Ionic React Application workshop
+# ionic-react-framework
+This is the latest setup for ionic and react
